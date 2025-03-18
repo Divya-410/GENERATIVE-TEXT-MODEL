@@ -57,4 +57,4 @@ While the current model produces reasonably good results, there is always room f
 
 OUTPUT:
 
-
+![Image](https://github.com/user-attachments/assets/1dd00ad9-1d8d-47c6-8f1c-ca9dc167d9b9)
